@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/html">
+        <file>spotify-player.html.in</file>
+    </qresource>
+</RCC>

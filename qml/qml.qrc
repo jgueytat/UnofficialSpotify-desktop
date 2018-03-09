@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>UnofficialSpotify.qml</file>
+        <file>pages/ConnectPage.qml</file>
+        <file>pages/WebPlayerPage.qml</file>
+    </qresource>
+</RCC>
