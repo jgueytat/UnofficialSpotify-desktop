@@ -3,5 +3,6 @@
         <file>UnofficialSpotify.qml</file>
         <file>pages/ConnectPage.qml</file>
         <file>pages/WebPlayerPage.qml</file>
+        <file>pages/EncryptedMediaTestPage.qml</file>
     </qresource>
 </RCC>

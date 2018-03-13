@@ -1,12 +1,11 @@
 import QtQuick 2.0
-import QtWebView 1.1
+import QtWebEngine 1.5
 
 Item {
     id: page
-
     anchors.fill: parent
 
-    WebView {
+    WebEngineView {
         id: webView
         anchors.fill: parent
 
